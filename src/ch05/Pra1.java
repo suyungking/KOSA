@@ -7,6 +7,8 @@ public class Pra1 {
 		
 		for(int score: array) {
 			max = (max<score) ? score : max;
+		
+		
 		}
 		System.out.println(max);
 	}
