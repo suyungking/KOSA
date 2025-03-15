@@ -1,4 +1,4 @@
-package work;
+package homework;
 
 public class LottoMain {
 	public static void main(String[] agrgs) {
